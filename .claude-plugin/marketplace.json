@@ -1,1 +1,26 @@
-{"description":"WastedLands plugin marketplace: agent skills for project scaffolding and related workflows.","name":"wastedlands","owner":{"name":"WastedLands","url":"https://github.com/WastedLands"},"plugins":[{"category":"productivity","description":"WastedLands skills: interview-driven project scaffolding (init-project).","name":"wastedlands","source":{"repo":"WastedLands/Skill-InitProject","source":"github"},"tags":["scaffolding","project-init","agents-md","openspec"]}],"version":"0.1.0"}
+{
+  "description": "WastedLands plugin marketplace: agent skills for project scaffolding and related workflows.",
+  "name": "wastedlands",
+  "owner": {
+    "name": "WastedLands",
+    "url": "https://github.com/WastedLands"
+  },
+  "plugins": [
+    {
+      "category": "productivity",
+      "description": "Interview-driven project scaffolding: turn an idea into a fully-structured repo \u2014 AGENTS.md, docs, OpenSpec planning, CI \u2014 through a guided interview.",
+      "name": "wastedlands",
+      "source": {
+        "repo": "WastedLands/Skill-InitProject",
+        "source": "github"
+      },
+      "tags": [
+        "scaffolding",
+        "project-init",
+        "agents-md",
+        "openspec"
+      ]
+    }
+  ],
+  "version": "1.0.0"
+}

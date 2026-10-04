@@ -6,7 +6,7 @@ Working instructions for coding agents in this repository.
 
 **WastedLands/Skills**: the WastedLands plugin marketplace. Lists WastedLands agent skills for Claude Code (`.claude-plugin/marketplace.json`) and Codex (`.agents/plugins/marketplace.json`). Skills themselves live in their own repos (e.g. `WastedLands/Skill-InitProject`).
 
-**Status (2026-10-04):** draft 0.1.0, private. One plugin listed (`wastedlands`).
+**Status (2026-10-05):** 1.0.0. One plugin listed (`wastedlands`).
 
 ## Conventions
 
