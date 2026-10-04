@@ -1,10 +1,13 @@
 # WastedLands Skills marketplace
 
-Plugin marketplace for WastedLands agent skills. Currently hosts one plugin:
+Plugin marketplace for WastedLands agent skills.
 
+<!-- PLUGINS:START -->
+<!-- This table is generated from the marketplace manifests — do not hand-edit between the markers. -->
 | Plugin | Skills | Description |
 |---|---|---|
 | `wastedlands` | `init-project` | Interview-driven scaffolding for new software projects |
+<!-- PLUGINS:END -->
 
 ## Use
 
